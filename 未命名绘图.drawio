@@ -1,41 +1,208 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T07:34:49.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.3" etag="c1QlnxBwFnvMIyWB3oM-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:52:47.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BSZZ05gLG8m9sIcNGnXW" version="21.3.3" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="447" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;算法包流程图&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="-140" width="790" height="370" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-1" target="Hgh8s4Pm92tYtfzgSs3c-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;输入文件&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.414;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-2" target="Hgh8s4Pm92tYtfzgSs3c-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="210" />
+              <mxPoint x="320" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;解析后赋值给常数和配置类中&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hgh8s4Pm92tYtfzgSs3c-4">
+          <mxGeometry x="-0.4205" y="2" relative="1" as="geometry">
+            <mxPoint x="32" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;配置文件&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-3" target="Hgh8s4Pm92tYtfzgSs3c-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;解析后转化算法输入数据格式&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hgh8s4Pm92tYtfzgSs3c-8">
+          <mxGeometry x="-0.152" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;成图工厂&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-7" target="Hgh8s4Pm92tYtfzgSs3c-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;处理链计算&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="640" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;输出文件&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;实体处理链与算法流程图&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-900" width="1030" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-26" target="Hgh8s4Pm92tYtfzgSs3c-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;数据&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="50" y="71" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-27" target="Hgh8s4Pm92tYtfzgSs3c-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-27" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;力导向算法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="220" y="71" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-53" target="Hgh8s4Pm92tYtfzgSs3c-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-53" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;变电站微调算法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="220" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-52" target="Hgh8s4Pm92tYtfzgSs3c-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-52" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;缩小与放大处理链&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="220" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-51" target="Hgh8s4Pm92tYtfzgSs3c-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-51" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;图元成组处理链&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="220" y="301" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-50" target="Hgh8s4Pm92tYtfzgSs3c-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-50" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;退火算法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="400" y="165" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-49" target="Hgh8s4Pm92tYtfzgSs3c-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-49" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;线路处理算法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="490" y="165" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="180.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-48" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;输出处理链&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="800" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-47" target="Hgh8s4Pm92tYtfzgSs3c-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-47" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;文字处理链&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="620" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-46" target="Hgh8s4Pm92tYtfzgSs3c-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-46" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;锚点处理链&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="620" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-57" target="Hgh8s4Pm92tYtfzgSs3c-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-57" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;缩小与放大处理链&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="620" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-58" target="Hgh8s4Pm92tYtfzgSs3c-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-58" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;颜色处理链&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="620" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-70" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;数据&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-12">
+          <mxGeometry x="960" y="160" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-75" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;算法包模块分布&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="1250" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-87" target="Hgh8s4Pm92tYtfzgSs3c-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-87" target="Hgh8s4Pm92tYtfzgSs3c-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-87" target="Hgh8s4Pm92tYtfzgSs3c-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-87" value="算法包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-88" target="Hgh8s4Pm92tYtfzgSs3c-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-88" value="输入文件解析模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-89" target="Hgh8s4Pm92tYtfzgSs3c-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-89" value="图元成组模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-90" target="Hgh8s4Pm92tYtfzgSs3c-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-90" target="Hgh8s4Pm92tYtfzgSs3c-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-90" value="图元模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-91" target="Hgh8s4Pm92tYtfzgSs3c-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-91" value="输出文件模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="240" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-93" target="Hgh8s4Pm92tYtfzgSs3c-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-93" value="图元算法模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-75" source="Hgh8s4Pm92tYtfzgSs3c-92" target="Hgh8s4Pm92tYtfzgSs3c-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-92" value="线路算法模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="460" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-96" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;力导向算法处理变电站分布&lt;/li&gt;&lt;li&gt;退火算法处理站外联络开关分布&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="690" y="150" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-98" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;变电站内部图元成组处理&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="690" y="260" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-99" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;线路分组分布算法&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;线路定制化算法&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;特殊连接关系算法&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="690" y="345" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-100" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;输入数据解析&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;配置信息解析&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="690" y="60" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-101" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;锚点处理&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;文字处理&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;输出格式处理&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Hgh8s4Pm92tYtfzgSs3c-75">
+          <mxGeometry x="690" y="452.5" width="130" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
