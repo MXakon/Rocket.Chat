@@ -1,49 +1,396 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T03:02:50.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="22.1.16" etag="hT56vrE8QHgj65nq1zdu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T07:38:10.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Sq_s8SndJy6-RqHY1KRf" version="22.1.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1780" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="umogpFIl5og-eF7LVm7Z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-0" target="umogpFIl5og-eF7LVm7Z-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-0" value="基于链接关系力导向布局算法&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-2" target="umogpFIl5og-eF7LVm7Z-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-2" value="遍历变电站获取权重最大的变电站并&lt;br&gt;设为中心变电站&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-3" target="umogpFIl5og-eF7LVm7Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-3" value="计算得出中心变电站链接变电站列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-5" target="umogpFIl5og-eF7LVm7Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-5" value="加入“偏移范围”&lt;br&gt;计算权重&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="370" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-9" target="umogpFIl5og-eF7LVm7Z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-9" target="umogpFIl5og-eF7LVm7Z-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="260" />
+              <mxPoint x="680" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-9" value="遍历链接变电站列表是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="280" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-10" target="umogpFIl5og-eF7LVm7Z-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-10" target="umogpFIl5og-eF7LVm7Z-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-10" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="280" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-11" target="umogpFIl5og-eF7LVm7Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-11" target="umogpFIl5og-eF7LVm7Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-11" value="判断是否&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;为第一层" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="280" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-12" target="umogpFIl5og-eF7LVm7Z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-12" value="根据引力斥力&lt;br&gt;计算坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1570" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-13" value="进行微调坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="308" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-19" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="308" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-25" target="umogpFIl5og-eF7LVm7Z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-25" target="umogpFIl5og-eF7LVm7Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-25" value="判断变电站是否已经处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1520" y="280" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-33" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1730" y="308" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1620" y="398" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1450" y="308" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-37" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1340" y="258" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-39" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-41" target="umogpFIl5og-eF7LVm7Z-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-41" value="基于链接关系GIS&lt;br&gt;布局算法&lt;span style=&quot;text-align: start; font-size: 12pt; font-family: 仿宋;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-42" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-43" target="umogpFIl5og-eF7LVm7Z-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-43" value="基于用户输入的信息进行清洗校验&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-44" target="umogpFIl5og-eF7LVm7Z-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-44" value="计算得出当前区域内的中心点&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-45" target="umogpFIl5og-eF7LVm7Z-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-45" value="计算出区域中心变电站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-46" target="umogpFIl5og-eF7LVm7Z-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-46" value="计算得出放大常数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-47" target="umogpFIl5og-eF7LVm7Z-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-47" target="umogpFIl5og-eF7LVm7Z-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-47" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="770" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-62" target="umogpFIl5og-eF7LVm7Z-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-62" value="遍历链接变电站列表是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="770" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-64" target="umogpFIl5og-eF7LVm7Z-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-64" value="根据放大常数&lt;br&gt;计算出坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1550" y="922" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-66" target="umogpFIl5og-eF7LVm7Z-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-66" value="进行微调坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="922" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-69" target="umogpFIl5og-eF7LVm7Z-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-69" target="umogpFIl5og-eF7LVm7Z-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-69" value="判断变电站是否已经处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1500" y="770" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-70" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1710" y="790" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-71" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="880" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-72" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1430" y="800" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-73" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1320" y="740" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-74" target="umogpFIl5og-eF7LVm7Z-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-74" value="计算得出中心变电站链接变电站列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-77" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="398" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-85" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="808" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-86" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="882" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-62" target="umogpFIl5og-eF7LVm7Z-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="750" />
+              <mxPoint x="960" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-90" target="umogpFIl5og-eF7LVm7Z-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-90" value="变电站排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="umogpFIl5og-eF7LVm7Z-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-102" target="umogpFIl5og-eF7LVm7Z-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-102" target="umogpFIl5og-eF7LVm7Z-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-102" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1262" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-119" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="1382" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-124" value="根据线路个数进行排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1292" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-126" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1288" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-127" target="umogpFIl5og-eF7LVm7Z-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-127" target="umogpFIl5og-eF7LVm7Z-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-127" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1450" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-130" value="根据是否存在插入排序条件进行处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-131" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="1478" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-133" target="umogpFIl5og-eF7LVm7Z-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.5882352941176" y="1809.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-133" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1630" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-135" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="1558" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-136" target="umogpFIl5og-eF7LVm7Z-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-136" value="计算变电站位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-139" value="进行微调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-141" target="umogpFIl5og-eF7LVm7Z-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-141" target="umogpFIl5og-eF7LVm7Z-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="1770" />
+              <mxPoint x="660" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-141" value="判断变电站是否已经处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="1630" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-146" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="1738" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-148" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="1658" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-150" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-151" target="umogpFIl5og-eF7LVm7Z-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-151" value="联络对排序和布局&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-152" target="umogpFIl5og-eF7LVm7Z-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-152" value="计算所有变电站基础信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="2158" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-153" value="对链接变电站进行开关分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="2306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-154" target="umogpFIl5og-eF7LVm7Z-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-154" target="umogpFIl5og-eF7LVm7Z-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-154" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="2276" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-158" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="2306" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-159" target="umogpFIl5og-eF7LVm7Z-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-159" value="计算所有开关链接联络对信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="2456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-161" target="umogpFIl5og-eF7LVm7Z-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-161" target="umogpFIl5og-eF7LVm7Z-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-161" value="遍历所有变电站是否结束" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="2598" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-163" target="umogpFIl5og-eF7LVm7Z-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-163" target="umogpFIl5og-eF7LVm7Z-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-163" value="根据位置、方向进行筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="990" y="2628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-164" target="umogpFIl5og-eF7LVm7Z-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-164" value="对联络对进行排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1250" y="2636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-165" target="umogpFIl5og-eF7LVm7Z-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-165" value="对简单开关进行处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="2456" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-166" target="umogpFIl5og-eF7LVm7Z-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-166" value="对复杂开关进行处理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="2766" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="umogpFIl5og-eF7LVm7Z-172" target="umogpFIl5og-eF7LVm7Z-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-172" value="对联络对进行&lt;br&gt;位置计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1430" y="2636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-174" value="对联络对两侧&lt;br&gt;进行计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1630" y="2636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-176" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="2628" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-178" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="umogpFIl5og-eF7LVm7Z-180" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="2728" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
