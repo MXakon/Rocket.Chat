@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T03:58:48.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="XtlTtEzjnH0qeM0AgkQz" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T03:49:17.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="C06GiRq7wvJdk4WvKSYj" version="24.2.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1315" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="2198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;vertical-align: inherit;&quot;&gt;算法包流程图&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="240" y="-140" width="790" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-1" target="Hgh8s4Pm92tYtfzgSs3c-3" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-1" target="Hgh8s4Pm92tYtfzgSs3c-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;输入文件&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-1" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;输入文件&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.414;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-2" target="Hgh8s4Pm92tYtfzgSs3c-3" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.414;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-2" target="Hgh8s4Pm92tYtfzgSs3c-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="210" />
@@ -21,32 +21,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;解析后赋值给常数和配置类中&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hgh8s4Pm92tYtfzgSs3c-4" vertex="1" connectable="0">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-6" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;解析后赋值给常数和配置类中&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="Hgh8s4Pm92tYtfzgSs3c-4" vertex="1" connectable="0">
           <mxGeometry x="-0.4205" y="2" relative="1" as="geometry">
-            <mxPoint x="32" y="2" as="offset" />
+            <mxPoint x="48" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;配置文件&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-2" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;配置文件&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-3" target="Hgh8s4Pm92tYtfzgSs3c-7" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-3" target="Hgh8s4Pm92tYtfzgSs3c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;解析后转化算法输入数据格式&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Hgh8s4Pm92tYtfzgSs3c-8" vertex="1" connectable="0">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-23" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;解析后转化算法输入数据格式&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="Hgh8s4Pm92tYtfzgSs3c-8" vertex="1" connectable="0">
           <mxGeometry x="-0.152" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;成图工厂&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-3" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;成图工厂&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="260" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-7" target="Hgh8s4Pm92tYtfzgSs3c-10" edge="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" source="Hgh8s4Pm92tYtfzgSs3c-7" target="Hgh8s4Pm92tYtfzgSs3c-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;处理链计算&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-7" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;处理链计算&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="640" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;输出文件&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+        <mxCell id="Hgh8s4Pm92tYtfzgSs3c-10" value="&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 14px;&quot;&gt;输出文件&lt;/font&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hgh8s4Pm92tYtfzgSs3c-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;vertical-align: inherit;&quot;&gt;具体处理链与算法流程图&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;strokeColor=#FFFFFF;shadow=0;opacity=0;fillColor=none;" parent="1" vertex="1">
@@ -92,13 +92,13 @@
         <mxCell id="Hgh8s4Pm92tYtfzgSs3c-50" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;联络开关多条件联合算法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Hgh8s4Pm92tYtfzgSs3c-12" vertex="1">
           <mxGeometry x="361" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSyik6YdCMF_aCM4GR09-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-49" target="Hgh8s4Pm92tYtfzgSs3c-58">
+        <mxCell id="ZSyik6YdCMF_aCM4GR09-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-49" target="Hgh8s4Pm92tYtfzgSs3c-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hgh8s4Pm92tYtfzgSs3c-49" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;线路处理算法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Hgh8s4Pm92tYtfzgSs3c-12" vertex="1">
           <mxGeometry x="511" y="160" width="79" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZSyik6YdCMF_aCM4GR09-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-48" target="Hgh8s4Pm92tYtfzgSs3c-70">
+        <mxCell id="ZSyik6YdCMF_aCM4GR09-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Hgh8s4Pm92tYtfzgSs3c-12" source="Hgh8s4Pm92tYtfzgSs3c-48" target="Hgh8s4Pm92tYtfzgSs3c-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hgh8s4Pm92tYtfzgSs3c-48" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;输出处理链&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Hgh8s4Pm92tYtfzgSs3c-12" vertex="1">
